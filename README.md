@@ -32,14 +32,3 @@ curl http://localhost:8080
 ```
 
 #Leave a comment!
-```
-```
-```
-```
-```
-
-```
-
-```
-```
-
